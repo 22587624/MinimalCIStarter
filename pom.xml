@@ -22,9 +22,9 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-</project>
 
-<build>
+
+    <build>
   <plugins>
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
@@ -33,3 +33,4 @@
     </plugin>
   </plugins>
 </build>
+</project>
